@@ -1,0 +1,6 @@
+@EcoDrop.OracleApi_HostAddress = http://localhost:5175
+
+GET {{EcoDrop.OracleApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Domain\bin\Debug\net9.0\EcoDrop.Domain.deps.json
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Domain\bin\Debug\net9.0\EcoDrop.Domain.dll
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Domain\bin\Debug\net9.0\EcoDrop.Domain.pdb
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Domain\obj\Debug\net9.0\EcoDrop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Domain\obj\Debug\net9.0\EcoDrop.Domain.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Domain\obj\Debug\net9.0\EcoDrop.Domain.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Domain\obj\Debug\net9.0\EcoDrop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Domain\obj\Debug\net9.0\EcoDrop.Domain.dll
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Domain\obj\Debug\net9.0\refint\EcoDrop.Domain.dll
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Domain\obj\Debug\net9.0\EcoDrop.Domain.pdb
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Domain\obj\Debug\net9.0\ref\EcoDrop.Domain.dll

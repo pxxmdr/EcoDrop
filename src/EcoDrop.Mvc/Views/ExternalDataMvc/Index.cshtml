@@ -1,0 +1,23 @@
+@model List<dynamic>
+
+<h2>Dados vindos da PublicApi</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div style="color:red">
+        <strong>@ViewBag.Error</strong>
+    </div>
+}
+else if (Model != null && Model.Any())
+{
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item</li>
+        }
+    </ul>
+}
+else
+{
+    <p>Nenhum dado encontrado.</p>
+}

@@ -1,0 +1,17 @@
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\bin\Debug\net9.0\EcoDrop.Infrastructure.deps.json
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\bin\Debug\net9.0\EcoDrop.Infrastructure.dll
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\bin\Debug\net9.0\EcoDrop.Infrastructure.pdb
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\bin\Debug\net9.0\EcoDrop.Domain.dll
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\bin\Debug\net9.0\EcoDrop.Domain.pdb
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\obj\Debug\net9.0\EcoDrop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\obj\Debug\net9.0\EcoDrop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\obj\Debug\net9.0\EcoDrop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\obj\Debug\net9.0\EcoDrop.Infrastructure.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\obj\Debug\net9.0\EcoDrop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\obj\Debug\net9.0\EcoDrop..91610A23.Up2Date
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\obj\Debug\net9.0\EcoDrop.Infrastructure.dll
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\obj\Debug\net9.0\refint\EcoDrop.Infrastructure.dll
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\obj\Debug\net9.0\EcoDrop.Infrastructure.pdb
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\obj\Debug\net9.0\ref\EcoDrop.Infrastructure.dll
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\bin\Debug\net9.0\EcoDrop.Infrastructure.runtimeconfig.json
+C:\Users\labsfiap\Desktop\EcoDropsCp\src\EcoDrop.Infrastructure\obj\Debug\net9.0\EcoDrop.Infrastructure.genruntimeconfig.cache
