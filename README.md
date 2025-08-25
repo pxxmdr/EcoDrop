@@ -133,6 +133,11 @@ GET http://localhost:5175/api/RecyclingPoints
 ```
 
 ### PublicApi – Consumindo JSONPlaceholder
+
+⚠️ Nesta versão utilizamos a API pública jsonplaceholder apenas como prova de conceito de integração externa.
+Em uma versão real, poderíamos integrar APIs de dados ambientais, como OpenAQ (qualidade do ar) ou bases de reciclagem disponíveis em órgãos públicos.
+
+
 **Request**
 ```http
 GET http://localhost:5242/api/ExternalData/posts
